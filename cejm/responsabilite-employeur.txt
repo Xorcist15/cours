@@ -1,0 +1,31 @@
+# Responsabilite de l'employeur
+
+1. Qualifier les faits
+M. Mounier, personne physique, salarie, fait un accident de travail ou il subit un dommage corporel qui occasione un arret de travail de 2 mois.
+A la reprise du travail, il demande reparation de ses dommages a son employeur, qui refuse, sous pretext qu'au debut des escaliers il y'a un panneau indiquant qu'il faut faire attention aux chutes.
+
+2. Citez et qualifier les dommages nes de cette mise en situation, justifiez
+Plusieurs dommages ont ete subit dans cette situation:
+  M. Mounier a subit 
+    un dommage corporel car il se fait blesser la jambe avoir des commotions.
+    un dommage materiel, car il n'a pas eu de salaire pendant 2 mois ou il a du paye lui meme les frais de soins
+    un dommage moral, car en restant immobile a la maison pendant 2 mois les personnes on tendances a tomber en depression.
+  Par le cote de l'employeur
+    Il n'y  pas eu de reel dommage subi par l'employeur.
+
+3. Identifiez la nature juridique de la responsabilite applicable a l'employeur
+Le salarie peut demander reparation sans avoir a prouver la faute de son employeur (regime sans faut).
+Le salarie doit faire constater son employeur de l'accident qui doit a son tour le declarer sous 48 heures.
+
+4. M. Mounier peut-il obtenir reparation
+Selon l'article 311-2, est considere comme accident de travail, tout dommage subit par toute personne sous tout type de contrat qui oblige une personne a quitter son lieu de domicile afin de poursuivre un activite quelconque.
+Selon l'article 4121-1 du code du travail, l'employeur doit prendre les mesures necessaires pour assurer la securite et proteger la sante physique et mental des travailleurs. Chose qui n'est pas faite dans cette sitation.
+L'employeur doit prendre en charge les soins, en payant des indemnites en plus.
+L'employeur n'a pas mis en place les mesures necessaires pour preserver les personnes contre le danger en question, (Un panneau informatif n'est pas une mesure), c'est donc une faute inexcusable
+
+Donc l'employeur doit obligatoirement payer des indemnites a M. Mounier.
+
+situation
+clara accident ski           oui
+nadia victime circulation    non
+hamid amiantes inhales       oui
