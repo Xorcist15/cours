@@ -11,11 +11,12 @@ Plusieurs dommages ont ete subit dans cette situation:
     un dommage materiel, car il n'a pas eu de salaire pendant 2 mois ou il a du paye lui meme les frais de soins
     un dommage moral, car en restant immobile a la maison pendant 2 mois les personnes on tendances a tomber en depression.
   Par le cote de l'employeur
-    Il n'y  pas eu de reel dommage subi par l'employeur.
+    Il n'y a pas eu de reel dommage subi par l'employeur.
 
 3. Identifiez la nature juridique de la responsabilite applicable a l'employeur
-Le salarie peut demander reparation sans avoir a prouver la faute de son employeur (regime sans faut).
+Le salarie peut demander reparation sans avoir a prouver la faute de son employeur (regime sans faute).
 Le salarie doit faire constater son employeur de l'accident qui doit a son tour le declarer sous 48 heures.
+On est presence de responsabilite civile contractuelle, qui engage l'employeur
 
 4. M. Mounier peut-il obtenir reparation
 Selon l'article 311-2, est considere comme accident de travail, tout dommage subit par toute personne sous tout type de contrat qui oblige une personne a quitter son lieu de domicile afin de poursuivre un activite quelconque.
@@ -27,5 +28,17 @@ Donc l'employeur doit obligatoirement payer des indemnites a M. Mounier.
 
 situation
 clara accident ski           oui
-nadia victime circulation    non
+  cependant le chef d'entreprise, va essayer de s'exonerer de sa responsabilite. et dans ce cas il doit prouver que la personne a commis une faute.
+nadia victime circulation    oui  (Accident de trajet)
+  Pour s'exonerer le chef doit prouver que la personne n'etait pas sur le bon chemin le plus court
 hamid amiantes inhales       oui
+  
+
+En matiere de securite au travail, le chef, a une obligation generale de securite, cette obligation est de resultat, cad, atteindre la securite maximum au travail.
+l'employeur est toujours fautif suivant le regime de responsabilite **sans faute**, 
+
+Exoneration
+  fait d'une personne.
+  faute de la victime
+  force majeure
+  fait d'un tier
